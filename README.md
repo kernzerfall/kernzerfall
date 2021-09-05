@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 ### Hi there 👋, I'm kernzerfall.
 
-* ✈️ Moving to Aachen soon
-* 📚 Computer Science Student (starting next month)
+* 📍 Aachen, Nordrhein-Westfalen, Germany
+* 📚 Computer Science Student (starting soon)
 * 📖 Currently learning Android/Kotlin
 
 <!--
