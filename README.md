@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 ### Hi there 👋, I'm kernzerfall.
 
 * 📍 Aachen, Nordrhein-Westfalen, Germany
-* 📚 Computer Science Student (starting soon)
-* 📖 Currently learning Android/Kotlin
+* 📚 Computer Science (B.Sc.) Student @ RWTH Aachen University
+* 📖 Currently keeping myself occupied with Android/Kotlin
 
 <!--
  Flattened DOM because Github wants to parse some indented
