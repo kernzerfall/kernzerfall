@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 ### Hi there 👋, I'm kernzerfall.
 
 * 📍 Aachen, Nordrhein-Westfalen, Germany
-* 📚 Computer Science (B.Sc.) Student @ RWTH Aachen University
-* 📖 Currently keeping myself occupied with Android/Kotlin
+* 📚 Computer Science (B. Sc.) Student @ RWTH Aachen
+* 🖥️ Religiously using Linux since 2012. *I use [Arch](https://archlinux.org) by the way.*
+* 📖 Currently keeping myself occupied with Go
 
 <!--
  Flattened DOM because Github wants to parse some indented
