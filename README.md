@@ -18,7 +18,20 @@ Here are some ideas to get you started:
 * 📍 Aachen, Nordrhein-Westfalen, Germany
 * 📚 Computer Science (B. Sc.) Student @ RWTH Aachen
 * 🖥️ Religiously using Linux since 2012. *I use [Arch](https://archlinux.org) by the way.*
-* 📖 Currently keeping myself occupied with Go
+* 📖 Currently keeping myself occupied with [Rust](https://rust-lang.org), and [Yew](https://yew.rs)/[Actix](https://actix.rs).
+* 🗒️ Livin' the [neovim](https://neovim.io) life
+
+<div>
+<a href="https://neovim.io">
+<img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
+</a>
+<a hrep="https://rust-lang.org">
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+</a>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+</div>
+
 
 <!--
  Flattened DOM because Github wants to parse some indented
@@ -39,3 +52,7 @@ Here are some ideas to get you started:
     </tr>
 </table>
 </details>
+
+<div>
+<img src="https://grs.georgar.de/api/top-langs/?username=kernzerfall&theme=react&layout=compact&show_icons=true&langs_count=20&exclude_repo=github-readme-stats,pixel" alt="Top Languages" />
+</div>
